@@ -1,0 +1,15 @@
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.exe
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.deps.json
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.runtimeconfig.json
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.dll
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.pdb
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.csproj.AssemblyReference.cache
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.AssemblyInfoInputs.cache
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.AssemblyInfo.cs
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.csproj.CoreCompileInputs.cache
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.dll
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\refint\CervenaKarkulka.dll
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.pdb
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.genruntimeconfig.cache
+C:\Users\Huong Quynh Tran\source\repos\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\ref\CervenaKarkulka.dll
